@@ -15,6 +15,7 @@ Como parte das tarefas desenvolvidas no Bootcamp de Angular da plataforma Digita
 
 ### Autor
 <hr>
+
 ```
 Fernando Santos De Freitas
 ```
